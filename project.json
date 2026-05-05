@@ -1,0 +1,28 @@
+{
+  "overview": "Smart AI Task Manager Pro is a premium, SaaS-quality task management app with authentication, intelligent suggestions, drag-and-drop reordering, priority and tag systems, a live stats dashboard, and real-time search — all wrapped in a polished, responsive UI inspired by Notion and Linear.",
+  "features": [
+    "Create, edit, and delete tasks with descriptions, due dates, priorities, and tags",
+    "Smart Suggestions — intelligent task completions as you type",
+    "Drag-and-drop task reordering",
+    "Dashboard stats: Total, Completed, Pending, Overdue",
+    "Filter by All / Pending / Completed / Overdue",
+    "Sort by date or priority",
+    "Real-time search across tasks",
+    "Internet Identity login with per-user task isolation",
+    "Color-coded priorities (Low, Medium, High) and overdue highlights",
+    "Toast notifications for all actions",
+    "Responsive design for mobile and desktop",
+    "Beautiful empty states"
+  ],
+  "category": "productivity",
+  "tags": [
+    "task-manager",
+    "productivity",
+    "saas",
+    "drag-and-drop",
+    "authentication",
+    "real-time-search",
+    "smart-suggestions"
+  ],
+  "last_updated": "2026-05-05T14:08:16.778Z"
+}
