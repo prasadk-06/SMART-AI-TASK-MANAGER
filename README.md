@@ -49,7 +49,7 @@ A premium, production-ready AI-powered task management app built on the Internet
 | Animations | motion/react |
 | State | React Query (TanStack) |
 | Backend | Motoko (Internet Computer) |
-| Auth | Internet Identity |
+| Auth | Google |
 | Deployment | Internet Computer (ICP) |
 
 ---
@@ -67,7 +67,10 @@ pnpm dev
 caffeine deploy
 ```
 
-> **Note:** Requires the [Caffeine](https://caffeine.ai) platform to deploy on the Internet Computer.
+> **default local login:
+
+Email: admin@example.com
+Password: admin123 **
 
 ---
 
